@@ -3,6 +3,7 @@
 The faster algorithm is the algorithm4 using map to conver the integers and using the formula to calculate the sum of the first N numbers.
 
 | algorithm  | time               |
+| :---------:|:------------------:| 
 | algorithm  |0.07385699800011934 |
 | algorithm2 |0.08355383400063147 |
 | algorithm3 |0.057092479999701025|
