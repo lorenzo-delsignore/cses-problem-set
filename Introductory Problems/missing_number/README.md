@@ -1,6 +1,6 @@
 # Missing Number algorithm
 
-The faster algorithm is the algorithm4 using map to conver the integers and using the formula to calculate the sum of the first N numbers.
+The faster algorithm is the algorithm4 which use the map function to convert the integers and the formula to calculate the sum of the first N numbers.
 
 | algorithm  | time               |
 | :---------:|:------------------:| 
