@@ -1,5 +1,4 @@
 import timeit
-from statistics import mean
 
 
 def algorithm(first_line, second_line):
@@ -58,4 +57,4 @@ if __name__ == "__main__":
     algorithms = [algorithm, algorithm2, algorithm3, algorithm4, algorithm5]
     for algo in algorithms:
         t = timeit.repeat(lambda: algo(first_line, second_line), number=1, repeat=50)
-        print(mean(t))
+        print(min(t))
