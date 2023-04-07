@@ -6,8 +6,8 @@ The faster algorithm is the algorithm4 which use:
 
 | algorithm  | time               |
 | :---------:|:------------------:| 
-| algorithm  |0.07385699800011934 |
-| algorithm2 |0.08355383400063147 |
-| algorithm3 |0.057092479999701025|
-| algorithm4 |0.039572096000047165|
-| algorithm5 |0.052562108000129226|
+| algorithm  |0.06107180000071821 |
+| algorithm2 |0.0643900000004578 |
+| algorithm3 |0.04899139999997715|
+| algorithm4 |0.03506080000079237|
+| algorithm5 |0.04671779999989667|
